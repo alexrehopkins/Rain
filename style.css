@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    position: fixed;
+    margin-left: -250px;
+    margin-top: -250px;
+    left: 50%;
+    top: 45%;
+    display: inline;
+}
+
+p {
+    font-size: 20px;
+    margin: 0px;
+}
+
+#text {
+    margin-left: 215px;
+}
